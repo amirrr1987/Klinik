@@ -1,4 +1,3 @@
-<script lang="ts" setup></script>
 
 <template>
   <!-- Spinner Start -->
@@ -254,4 +253,3 @@
   ></a>
 </template>
 
-<style scoped></style>
