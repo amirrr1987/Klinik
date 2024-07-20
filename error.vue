@@ -81,7 +81,7 @@
         <NuxtLink to="/service" class="nav-item nav-link">Service</NuxtLink>
         <div class="nav-item dropdown">
           <NuxtLink
-            to="#"
+            to="/"
             class="nav-link dropdown-toggle"
             data-bs-toggle="dropdown"
             >Pages</NuxtLink
@@ -119,10 +119,10 @@
       <nav aria-label="breadcrumb animated slideInDown">
         <ol class="breadcrumb text-uppercase mb-0">
           <li class="breadcrumb-item">
-            <NuxtLink class="text-white" href="#">Home</NuxtLink>
+            <NuxtLink class="text-white" to="/">Home</NuxtLink>
           </li>
           <li class="breadcrumb-item">
-            <NuxtLink class="text-white" href="#">Pages</NuxtLink>
+            <NuxtLink class="text-white" to="/">Pages</NuxtLink>
           </li>
           <li class="breadcrumb-item text-primary active" aria-current="page">
             About

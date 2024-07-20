@@ -39,7 +39,7 @@ const route = useRoute();
         >
         <div class="nav-item dropdown">
           <NuxtLink
-            to="#"
+            to="/"
             class="nav-link dropdown-toggle"
             data-bs-toggle="dropdown"
             >Pages</NuxtLink

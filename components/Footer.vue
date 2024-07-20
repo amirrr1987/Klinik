@@ -80,7 +80,7 @@
         <div class="row">
           <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
             &copy;
-            <NuxtLink class="border-bottom" href="#">Your Site Name</NuxtLink>,
+            <NuxtLink class="border-bottom" to="/">Your Site Name</NuxtLink>,
             All Right Reserved.
           </div>
           <div class="col-md-6 text-center text-md-end">
