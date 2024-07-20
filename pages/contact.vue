@@ -1,3 +1,8 @@
+<script setup lang="ts">
+definePageMeta({
+  layout: "widthheader",
+});
+</script>
 <template>
   <!-- Contact Start -->
   <div class="container-xxl py-5">
